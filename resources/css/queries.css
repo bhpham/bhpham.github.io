@@ -1,65 +1,66 @@
-
 /* Small tablet to big tablet: from 768px to 1023px */
 @media only screen and (max-width: 1023px) {
-    body { font-size: 13px; }
-    section { padding: 60px 0; }
-    .row { padding: 0 4%;}
-    .contact-form { width: 100%}
-    h2 { font-size: 250%; }
-    li { font-size: 120%; }
-    
-}
+  body {
+    font-size: 17px;
+  }
+  section {
+    padding: 60px 0;
+  }
+  .row {
+    padding: 0 4%;
+  }
+  .contact-form {
+    width: 100%;
+  }
 
+  h2 {
+    font-size: 250%;
+  }
+}
 
 /* Small phones to small tablets: from 481px to 767px */
 @media only screen and (max-width: 767px) {
-    body { font-size: 12px; }
-    section { padding: 40px 0; }    
-    h1 { font-size: 300%; }
-    h2 { font-size: 220%; }
-    li { font-size: 120%; }
-    
-    #profile-contact .profile-item {
-		margin: 0 0 20px;
-        text-align: center;
-	}
-    .section-skills {
-        text-align: center;
-    }
-    .hidden-xs {
-        text-align: center;
-        display: block !important;
-    }
-    .section-profile img {
-        max-width: 50%;
-        height: auto;
-    }
-    
-}
+  body {
+    font-size: 14px;
+  }
+  section {
+    padding: 40px 0;
+  }
+  h1 {
+    font-size: 300%;
+  }
+  h2 {
+    font-size: 220%;
+  }
 
+  #profile-contact .profile-item {
+    margin: 0 0 20px;
+    text-align: center;
+  }
+  .section-skills {
+    text-align: center;
+  }
+}
 
 /* Small phones: from 0 to 480px */
 @media only screen and (max-width: 480px) {
-    header { font-size: 10px; }
-    section { padding: 20px 0; }
-    
-    h1 { font-size: 280%; }
-    h2 { font-size: 180%; }
-    li { font-size: 120%; }
-    
-    .btn-full:link,
-    .btn-full:visited {
-        margin-left: 15px;
-        margin-bottom: 15px;
-    }
-    .hidden-xs {
-        text-align: center;
-        display: block !important;
-    }
-    .section-profile img {
-        max-width: 50%;
-        height: auto;
-    }
+  header {
+    font-size: 12px;
+  }
+  section {
+    padding: 20px 0;
+  }
 
+  h1 {
+    font-size: 280%;
+  }
+  h2 {
+    font-size: 180%;
+  }
+
+  .btn-full:link,
+  .btn-full:visited {
+    margin-left: 15px;
+    margin-bottom: 15px;
+  }
 }
-

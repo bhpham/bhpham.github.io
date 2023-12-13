@@ -8,12 +8,12 @@
 
     // Check the data.
     if (empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        header("Location: http://www.binhhpham.com/index.php?success=-1#contact");
+        header("Location: http://www.bhpham.com/index.php?success=-1#contact");
         exit;
     }
 
     // Set the recipient email address. Update this to YOUR desired email address.
-    $recipient = "binhhpham@binhhpham.com";
+    $recipient = "bh.pham3@gmail.com";
 
     // Set the email subject.
     $subject = "New contact from $name";
@@ -30,6 +30,6 @@
     mail($recipient, $subject, $email_content, $email_headers);
     
     // Redirect to the index.html page with success code
-    header("Location: http://www.binhhpham.com/index.php?success=1#contact");
+    header("Location: http://www.bhpham.com/index.php?success=1#contact");
 
 ?>
