@@ -89,7 +89,7 @@
                             <div class="col-md-12">
                                 <div class="hello wow bounceInDown">
                                     <h1>Hey, I'm Binh Pham</h1>
-                                    <h3><span class="rotate">Cloud Architect | Agile Project Manager | Bike Lover </span></h3>
+                                    <h3><span class="rotate">Passionate Software Engineering and Product | Business Digital Transformation </span></h3>
                                     <a class="btn btn-full" href="#profile">Who Am I</a>
                                     <a class="btn btn-ghost" href="https://braki-frequentused-files.s3-ap-southeast-1.amazonaws.com/binhpham_resume.pdf">My Portfolio</a>
                                 </div>
