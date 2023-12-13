@@ -1,0 +1,24 @@
+[12/Apr/2021:04:11:24] (I): WordPress Instance Info:
+[12/Apr/2021:04:11:24] (I): Home URL : https://blog.binhpham.com
+[12/Apr/2021:04:11:24] (I): Site URL : https://blog.binhpham.com
+[12/Apr/2021:04:11:24] (I): WordPress Version : 5.7
+[12/Apr/2021:04:11:24] (I): Onboarding Version : 1.1.6
+[12/Apr/2021:04:11:24] (I): Multisite : No
+[12/Apr/2021:04:11:24] (I): Server Info : LiteSpeed
+[12/Apr/2021:04:11:24] (I): PHP Version : 7.2.34
+[12/Apr/2021:04:11:24] (I): HTTPS : Yes
+[12/Apr/2021:04:11:24] (I): PHP Max Execution Time : 120
+[12/Apr/2021:04:11:24] (I): PHP Max Input Vars : 5000
+[12/Apr/2021:04:11:24] (I): Max Upload Size : 134217728
+[12/Apr/2021:04:11:24] (I): Plugins:
+[12/Apr/2021:04:11:24] (I): [PLUGIN] 404page - your smart custom 404 error page : v11.3.0 (Peter Raschendorfer)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] All in One SEO : v4.0.17 (All in One SEO Team)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd : v6.2.1 (SeedProd)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] Google Analytics for WordPress by MonsterInsights : v7.17.0 (MonsterInsights)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] GutenBee : v2.10.5 (The CSSIgniter Team)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] Smash Balloon Instagram Feed : v2.9 (Smash Balloon)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] MaxSlider : v1.1.8 (The CSSIgniter Team)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] One Click Demo Import : v3.0.2 (OCDI)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] Templates Patterns Collection : v1.1.6 (ThemeIsle)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] WP Mail SMTP : v2.7.0 (WPForms)
+[12/Apr/2021:04:11:24] (I): [PLUGIN] WPForms Lite : v1.6.6 (WPForms)

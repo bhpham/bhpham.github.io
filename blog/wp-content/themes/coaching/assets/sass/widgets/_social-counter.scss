@@ -1,0 +1,217 @@
+.widget-area{
+	aside.widget{
+		.thim-social-counter{
+			ul{
+				margin: 0;
+				padding: 0;
+				overflow: hidden;
+				max-width: 400px;
+				li{
+					margin-bottom: 30px;
+					a{
+						font-size: 15px;
+						font-weight: 400;
+						text-transform: none;
+						&:hover{
+							color: #fff !important;
+						}
+					}
+					&.count-comments{
+						a{
+							border-color: #3a7a9e;
+							color: #3a7a9e;
+							&:hover{
+								background: #3a7a9e;
+							}
+						}
+					}
+					&.count-facebook{
+						a{
+							border-color: #345897;
+							color: #345897;
+							&:hover{
+								background: #345897;
+							}
+						}
+					}
+					&.count-github{
+						a{
+							border-color: #2a2b2d;
+							color: #2a2b2d;
+							&:hover{
+								background: #2a2b2d;
+							}
+						}
+					}
+					&.count-googleplus{
+						a{
+							border-color: #ec4b3d;
+							color: #ec4b3d;
+							&:hover{
+								background: #ec4b3d;
+							}
+						}
+					}
+					&.count-instagram{
+						a{
+							border-color: #674538;
+							color: #674538;
+							&:hover{
+								background: #674538;
+							}
+						}
+					}
+					&.count-linkedin{
+						a{
+							border-color: #0077b5;
+							color: #0077b5;
+							&:hover{
+								background: #0077b5;
+							}
+						}
+					}
+					&.count-pinterest{
+						a{
+							border-color: #d0001c;
+							color: #d0001c;
+							&:hover{
+								background: #d0001c;
+							}
+						}
+					}
+					&.count-posts{
+						a{
+							border-color: #5b5c5e;
+							color: #5b5c5e;
+							&:hover{
+								background: #5b5c5e;
+							}
+						}
+					}
+					&.count-soundcloud{
+						a{
+							border-color: #ff7700;
+							color: #ff7700;
+							&:hover{
+								background: #ff7700;
+							}
+						}
+					}
+					&.count-steam{
+						a{
+							border-color: #222222;
+							color: #222222;
+							&:hover{
+								background: #222222;
+							}
+						}
+					}
+					&.count-tumblr{
+						a{
+							border-color: #36465d;
+							color: #36465d;
+							&:hover{
+								background: #36465d;
+							}
+						}
+					}
+					&.count-twitch{
+						a{
+							border-color: #6441a5;
+							color: #6441a5;
+							&:hover{
+								background: #6441a5;
+							}
+						}
+					}
+					&.count-twitter{
+						a{
+							border-color: #2181c3;
+							color: #2181c3;
+							&:hover{
+								background: #2181c3;
+							}
+						}
+					}
+					&.count-users{
+						a{
+							border-color: #4fa124;
+							color: #4fa124;
+							&:hover{
+								background: #4fa124;
+							}
+						}
+					}
+					&.count-vimeo{
+						a{
+							border-color: #00acee;
+							color: #00acee;
+							&:hover{
+								background: #00acee;
+							}
+						}
+					}
+					&.count-youtube{
+						a{
+							border-color: #c6302f;
+							color: #c6302f;
+							&:hover{
+								background: #c6302f;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+.thim-social-counter{
+	ul{
+		margin: 0;
+		padding: 0;
+		li{
+			list-style: none !important;
+			width: 50%;
+			display: inline-block;
+			overflow: hidden;
+			float: left;
+			&:nth-child(odd){
+				clear: both;
+			}
+			.items{
+				display: inline-block;
+				overflow: hidden;
+				float: left;
+			  	width: 66px;
+				span{
+					display: block;
+					line-height: 20px;
+					text-transform: none;
+					&.count{
+						font-size: 15px;
+						font-weight: 700;
+						margin-top: 3px;
+					}
+					&.label{
+						font-size: 12px;
+						font-weight: 400;
+						color: #666;
+						line-height: 15px;
+					}
+				}
+			}
+			a{
+				width: 40px;
+				height: 40px;
+				border: 1px solid #eee;
+				border-radius: 50%;
+				line-height: 38px;
+				text-align: center;
+				display: inline-block;
+				margin-right: 8px;
+				float: left;
+			}
+		}
+	}
+}

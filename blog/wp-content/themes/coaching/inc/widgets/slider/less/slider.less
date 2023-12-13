@@ -1,0 +1,209 @@
+//style slider
+.owl-item {
+  .overlay_images {
+	position:         absolute;
+	top:              0;
+	bottom:           0;
+	left:             0;
+	right:            0;
+	opacity:          0.6;
+  }
+  .inner-item {
+	position: relative;
+	width: 100%;
+	display: table;
+	.wrapper-content {
+	  display: table-cell;
+	  vertical-align: middle;
+	  .slider-center {
+		margin: 0 auto;
+		text-align: center;
+	  }
+	  .slider-right {
+		float: right;
+		text-align: right;
+	  }
+	}
+  }
+  .slider-title {
+	color:         #fff;
+	font-size:     42px;
+	line-height:   45px;
+	margin-bottom: 25px;
+	font-weight:   bold;
+	display: inline-block;
+	vertical-align: middle;
+	.line-bottom {
+	  width:            50px;
+	  height:           3px;
+	  background-color: @thim_body_primary_color;
+	  display:          block;
+	  margin-top:       15px;
+	}
+	span {
+	  color: @thim_body_primary_color;
+	}
+  }
+  .slider-desc {
+	color:         #ffffff;
+	font-size:     16px;
+	display: inline-block;
+	vertical-align: middle;
+	p {
+	  margin-bottom: 15px;
+	  font-size:     16px;
+	  font-style:    italic;
+	  color:         inherit;
+	}
+  }
+  &.active {
+	.slider-title {
+	  webkit-animation-duration: 1.2s;
+	  animation-duration:        1.2s;
+	}
+	.slider-desc {
+	  webkit-animation-duration: 1.5s;
+	  animation-duration:        1.5s;
+	}
+	.animate_bounceIn {
+	  -webkit-animation-name: bounceIn;
+	  animation-name: bounceIn;
+	}
+	.animate_bounceInRight {
+	  -webkit-animation-name: bounceInRight;
+	  animation-name: bounceInRight;
+	}
+	.animate_bounceInLeft {
+	  -webkit-animation-name: bounceInLeft;
+	  animation-name: bounceInLeft;
+	}
+	.animate_bounceInUp {
+	  -webkit-animation-name: bounceInUp;
+	  animation-name: bounceInUp;
+	}
+	.animate_bounceInDown {
+	  -webkit-animation-name: bounceInDown;
+	  animation-name: bounceInDown;
+	}
+	.animate_fadeIn {
+	  -webkit-animation-name: fadeIn;
+	  animation-name: fadeIn;
+	}
+	.animate_growIn {
+	  -webkit-animation-name: growIn;
+	  animation-name: growIn;
+	}
+	.animate_fadeInLeft{
+	  -webkit-animation-name: fadeInLeft;
+	  animation-name: fadeInLeft;
+	}
+	.animate_fadeInRight{
+	  -webkit-animation-name: fadeInRight;
+	  animation-name: fadeInRight;
+	}
+	.animate_fadeInUp{
+	  -webkit-animation-name: fadeInRight;
+	  animation-name: fadeInRight;
+	}
+	.animate_fadeInDown{
+	  -webkit-animation-name: fadeInDown;
+	  animation-name: fadeInDown;
+	}
+	.animate_rotateIn {
+	  -webkit-animation-name: rotateIn;
+	  animation-name: rotateIn;
+	}
+	.animate_rotateInUpLeft {
+	  -webkit-animation-name: rotateInUpLeft;
+	  animation-name: rotateInUpLeft;
+	}
+	.animate_rotateInDownLeft {
+	  -webkit-animation-name: rotateInDownLeft;
+	  animation-name: rotateInDownLeft;
+	}
+	.animate_rotateInUpRight {
+	  -webkit-animation-name: rotateInUpRight;
+	  animation-name: rotateInUpRight;
+	}
+	.animate_rotateInDownRight {
+	  -webkit-animation-name: rotateInDownRight;
+	  animation-name: rotateInDownRight;
+	}
+	.animate_rollIn {
+	  -webkit-animation-name: rollIn;
+	  animation-name: rollIn;
+	}
+	.animate_wiggle {
+	  -webkit-animation-name: wiggle;
+	  animation-name: wiggle;
+	  -webkit-animation-timing-function: ease-in;
+	  animation-timing-function: ease-in;
+	}
+	.animate_swing {
+	  -webkit-transform-origin: top center;
+	  transform-origin: top center;
+	  -webkit-animation-name: swing;
+	  animation-name: swing;
+	}
+	.animate_tada {
+	  -webkit-animation-name: tada;
+	  animation-name: tada;
+	}
+	.animate_wobble {
+	  -webkit-animation-name: wobble;
+	  animation-name: wobble;
+	}
+	.animate_pulse {
+	  -webkit-animation-name: pulse;
+	  animation-name: pulse;
+	}
+	.animate_lightSpeedInRight {
+	  -webkit-animation-name: lightSpeedInRight;
+	  animation-name: lightSpeedInRight;
+	  -webkit-animation-timing-function: ease-out;
+	  animation-timing-function: ease-out;
+	}
+	.animate_lightSpeedInLeft {
+	  -webkit-animation-name: lightSpeedInLeft;
+	  animation-name: lightSpeedInLeft;
+	  -webkit-animation-timing-function: ease-out;
+	  animation-timing-function: ease-out;
+	}
+	.animate_flip {
+	  -webkit-backface-visibility: visible !important;
+	  -webkit-animation-name: flip;
+	  backface-visibility: visible !important;
+	  animation-name: flip;
+	}
+	.animate_flipInX {
+	  -webkit-backface-visibility: visible !important;
+	  -webkit-animation-name: flipInX;
+	  backface-visibility: visible !important;
+	  animation-name: flipInX;
+	}
+	.animate_flipInY {
+	  -webkit-backface-visibility: visible !important;
+	  -webkit-animation-name: flipInY;
+	  backface-visibility: visible !important;
+	  animation-name: flipInY;
+	}
+  }
+}
+
+.scroll-down {
+  &:visited, &:focus {
+	color: @thim_body_primary_color;
+  }
+  font-size: 50px;
+  &:hover {
+	color: #fff;
+  }
+}
+
+@media (max-width: 960px) {
+  .slider-left {
+	.slider-title, .slider-desc {
+	  text-align: left;
+	}
+  }
+}

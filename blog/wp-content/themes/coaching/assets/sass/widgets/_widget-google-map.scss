@@ -1,0 +1,152 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 20, 2014, 3:38:41 PM
+    Author     : Tuanta
+*/
+/*-----------------------------------------------------------------------------------*/
+/*  Google Map Section
+/*-----------------------------------------------------------------------------------*/
+#google-map {
+	height: 450px;
+	position: relative;
+	width: 100%;
+	background: white;
+	box-shadow: 0px 3px 0px rgba(0, 0, 0, 0.06);
+}
+.contact-map {
+	margin: 0;
+}
+
+#google-map .captionMap img {
+	width: 60px;
+	margin-bottom: 5px;
+	margin-right: 13px;
+	float: left;
+	margin-top: 0px;
+}
+#google-map img {
+	max-width: none;
+}
+#google-map .captionMap {
+	background: black;
+	background: rgba(0, 0, 0, 0.8);
+	background: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), black);
+	background: -moz-linear-gradient(rgba(0, 0, 0, 0.6), black);
+	background: -o-linear-gradient(rgba(0, 0, 0, 0.6), black);
+	background: -ms-linear-gradient(rgba(0, 0, 0, 0.6), black);
+	background: linear-gradient(rgba(0, 0, 0, 0.6), black);
+	border-radius: 4px;
+	z-index: 1;
+	top: 5px;
+	color: white;
+	padding: 12px;
+	font: 12px HelveticaNeue, Helvetica, Arial;
+	display: inline-block;
+	position: absolute;
+	text-shadow: black 0px 1px 1px;
+	width: 254px;
+}
+#google-map .captionMap span {
+	font-weight: bold;
+
+	display: block;
+	padding-top: 5px;
+}
+.content_maps {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 50%;
+	-ms-transform: translate(0, -50%); /* IE 9 */
+	-webkit-transform: translate(0, -50%); /* Safari */
+	transform: translate(0, -50%); /* Standard syntax */
+	.content_wrap {
+		width: 100%;
+		max-width: 370px;
+		background-color: #FFF;
+		padding: 60px 30px;
+		.area_place {
+			margin: 0 0 40px;
+			position: relative;
+			text-align: center;
+			.title_place {
+				position: relative;
+				background-color: #f0ba18;
+				border: none;
+				color: #fff;
+				border-radius: 0;
+				width: 100%;
+				font-size: 16px;
+				line-height: 50px;
+				cursor: pointer;
+				margin: 0;
+				.fa {
+					position: absolute;
+					right: 20px;
+					top: 0;
+					line-height: 50px;
+					@include transition();
+					&.open {
+						/* Rotate div */
+						-ms-transform: rotate(180deg); /* IE 9 */
+						-webkit-transform: rotate(180deg); /* Safari 3-8 */
+						transform: rotate(180deg);
+					}
+				}
+			}
+			.content_hidden {
+				color: #FFF;
+				display: none;
+				background-color: #f0ba18;
+				margin-left: 0;
+				padding: 0;
+				z-index: 1;
+				position: absolute;
+				width: 100%;
+				top: calc(100% + 1px);
+				li {
+					cursor: pointer;
+					line-height: 50px;
+					font-size: 16px;
+					border-bottom: 1px solid rgba(255,255,255,0.1);
+					font-weight: 700;
+				}
+			}
+		}
+		.content_place {
+			.item_pace {
+				display: none;
+				@include transition();
+				&:nth-child(1) {
+					display: block;
+				}
+			}
+		}
+		p {
+			margin-bottom: 15px;
+			position: relative;
+			padding-left: 20px;
+			i {
+				width: 20px;
+				top: 6px;
+				position: absolute;
+				left: 0;
+			}
+		}
+		select {
+			-webkit-appearance: none;
+			background-color: #f0ba18;
+			border: none;
+			color: #fff;
+			border-radius: 0;
+			width: 100%;
+			font-size: 16px;
+			line-height: 50px;
+			margin: 0 0 40px;
+		}
+	}
+}

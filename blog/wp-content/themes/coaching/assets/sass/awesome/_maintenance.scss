@@ -1,0 +1,76 @@
+.maintenance-wrap{
+    overflow-x: hidden;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background: url(images/maintenance.jpg) no-repeat center bottom;
+
+    padding-top: 10vh;
+    body.admin-bar &{
+        height: calc(100vh - 32px);
+        height: -webkit-calc(100vh - 32px);
+        height: -moz-calc(100vh - 32px);
+    }
+    .thim-widget-countdown-box,
+    .elementor-widget-thim-countdown-box {
+        .counter-block{
+            width: 90px;
+            height: 90px;
+            margin: 0 3px;
+            background-color: #333;
+            border: none;
+            .counter{
+                color: #fff;
+                font-size: 30px;
+                margin: 10px 24px 0;
+                width: 45px;
+                &.with-hundreds{
+                    margin: 10px 15px 0;
+                    width: 65px;
+                }
+            }
+            .counter-caption{
+                color: #fff;
+                font-size: 12px;
+                position: relative;
+                top: -8px;
+            }
+        }
+    }
+}
+
+@media (max-height: 800px) and (min-height: 768px) {
+    .maintenance-wrap{
+        background-size: 45vh;
+    }
+}
+
+@media (max-height: 768px) and (min-height: 736px) {
+    .maintenance-wrap{
+        background-size: 40vh;
+    }
+}
+
+@media (max-height: 736px) and (min-height: 667px) {
+    .maintenance-wrap{
+        background-size: 27vh;
+    }
+}
+
+@media (max-height: 667px) and (min-height: 568px) {
+    .maintenance-wrap{
+        background-size: 22vh;
+    }
+}
+
+@media (max-height: 568px) and (min-height: 480px) {
+    .maintenance-wrap{
+        background-size: 17vh;
+    }
+}
+
+@media (max-height: 480px) {
+    .maintenance-wrap{
+        background: none;
+    }
+}

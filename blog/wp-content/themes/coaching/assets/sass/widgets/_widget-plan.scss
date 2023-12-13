@@ -1,0 +1,87 @@
+.thim-plan{
+	.thim-plan-carousel-container{
+		.plan-item{
+			margin: 0 15px;
+			padding: 30px;
+			padding-right: 10px;
+			background-color: #fff;
+			.panel-heading{
+				display: block;
+				overflow: hidden;
+				.circle-border{
+					float: left;
+					margin-right: 20px;
+					.circle-inner{
+						width: 50px;
+						height: 50px;
+					  	padding-top: 5px;
+						display: table-cell;
+						text-align: center;
+						vertical-align: middle;
+						background-color: #2e8ece;
+						font-family: Montserrat;
+						p{
+							color: #fff;
+							font-weight: 700;
+							text-transform: uppercase;
+							margin: 0;
+							font-size: 12px;
+							line-height: 17px;
+						}
+					}
+				}
+				.title{
+					float: left;
+				  font-size: 15px;
+				}
+
+			}
+			.panel-body{
+				clear: both; 
+				margin-top: 24px;
+				margin-bottom: 13px;
+				max-height: 210px;
+				overflow-y: auto;
+				overflow-x: hidden;
+				iframe{
+					width: 100%;
+					height: auto;
+					padding: 0 10px;
+				}
+				padding-right: 30px;
+				&::-webkit-scrollbar {
+				    width: 5px;
+				}
+ 
+				&::-webkit-scrollbar-thumb {
+				    background-color: rgb(227, 227, 227);
+				    border-radius: 10px;
+				}
+ 
+				&::-webkit-scrollbar-track {
+				    border-radius: 10px;
+				    background-color: #fff;
+				}
+			} 
+		}
+		.owl-controls{
+			position: absolute;
+		    top: -70px;
+		    right: 15px;
+		    color: #fff;
+		    .owl-nav>div{
+		    	display: inline-block;
+			    width: 30px;
+			    border: 1px solid #fff;
+			    border-radius: 50%;
+			    &.owl-next{
+			    	margin-left: 10px;
+			    }
+			    i{
+			    	line-height: 28px;
+    				font-size: 20px; 
+			    }
+		    }
+		}
+	}
+}
