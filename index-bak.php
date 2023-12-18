@@ -90,7 +90,7 @@
                             <div class="col-md-12">
                                 <div class="hello wow bounceInDown">
                                     <h1>Hey, I'm Bill Pham</h1>
-                                    <h3><span class="rotate">Software Engineering | Cloud Architect | Passion for new product ideas</span></h3>
+                                    <h3><span class="rotate">Startup Advisor | Ex-TAM @ Google | Ex-SWE @ AntGroup | Cloud Solution Architect</span></h3>
                                     <a class="btn btn-full" href="#profile">Who Am I</a>
                                     <a class="btn btn-ghost" href="https://braki-frequentused-files.s3-ap-southeast-1.amazonaws.com/binhpham_resume.pdf">My Portfolio</a>
                                 </div>
@@ -176,7 +176,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-3 col-sm-6 wow bounceInLeft">
-                            <img class="avatar" src="resources/img/profile_img.jpg" alt="My avatar">
+                            <img class="avatar" src="resources/img/avatar2023.jpg" alt="My avatar">
                         </div>
                         <div class="col-md-3 col-sm-6 wow bounceInUp">
                             <div class="profile-widget">
@@ -321,18 +321,7 @@
                             <h2>Portfolio</h2>
                             <p class="long-copy">My current projects</p>
                         </div>
-                        
-                        <div class="col-md-4 col-sm6">
-                            <a href="resources/img/youtube-clone.jpg" class="pop-up" title="Youtube 1.x version">
-                                <div class="portfolio-item">
-                                    <img src="resources/img/youtube-clone-preview.jpg" alt="Youtube 1.x preview">
-                                </div>
-                                <div class="portfolio-item-description">
-                                    <h4>Youtube Clone 1.0</h4>
-                                    <p>I build a Youtube web app</p>
-                                </div>
-                            </a>
-                        </div>
+
                         <div class="col-md-4 col-sm-6 wow bounceInLeft">
                             <a href="resources/img/musicStore_project.jpg" class="pop-up" title="SoundOff music store snapshot">
                                 <div class="portfolio-item">
