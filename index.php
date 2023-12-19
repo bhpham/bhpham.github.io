@@ -338,15 +338,15 @@
                         </div>
 
                         <div class="col-md-4 col-sm-6 wow bounceInLeft">
-                            <a href="resources/img/musicStore_project.jpg" class="pop-up" title="SoundOff music store snapshot">
+                            <a href="resources/img/musicStore_project.jpg" class="pop-up" title="Spotify 1.x">
                                 <div class="portfolio-item">
                                     <div class="portfolio-item-preview">
-                                        <img src="resources/img/musicStore_preview.png" alt="SoundOff Music Store preview ">
+                                        <img src="resources/img/musicStore_preview.png" alt="Spotify preview 1.x">
                                     </div>
                                     <div class="portfolio-item-description">
                                         <!-- <img src="resources/img/musicStore_project.jpg" alt="SoundOff Music Store detail "> -->
-                                        <h4>BeatOn Music Store project </h4>
-                                        <p>An underground Hiphop/Rock/R&B music playstore (Tech Stack: Java, Spring MVC, MySQL, JS, HTML, CSS)</p>
+                                        <h4>Spotify 1.x project </h4>
+                                        <p>Built Music store platform (Tech Stack: Java, Spring MVC, MySQL, JS, HTML, CSS)</p>
                                     </div>
                                 </div>
                             </a>
