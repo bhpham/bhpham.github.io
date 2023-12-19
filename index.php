@@ -323,15 +323,15 @@
                         </div>
                         
                         <div class="col-md-4 col-sm-6 wow bounceInLeft">
-                            <a href="resources/img/yt_clone.jpg" class="pop-up" title="My Youtube 1.x">
+                            <a href="resources/img/yt_clone_preview.jpg" class="pop-up" title="My Youtube 1.x">
                                 <div class="portfolio-item">
                                     <div class="portfolio-item-preview">
-                                        <img src="resources/img/yt_clone_preview.jpg" alt="Youtube 1.x preview ">
+                                        <img src="resources/img/yt_clone.jpg" alt="Youtube 1.x preview ">
                                     </div>
                                     <div class="portfolio-item-description">
                                         <!-- <img src="resources/img/musicStore_project.jpg" alt="SoundOff Music Store detail "> -->
                                         <h4>Youtube 1.x project </h4>
-                                        <p>Buit a Youtube clone version 1.x (Tech Stack: ReactJS, javascript, html, css, Google Cloud Firestore, Cloud Storage, Pub/Sub, Cloud Run, Cloud Functions)</p>
+                                        <p>Developed a Youtube clone version 1.x (Tech Stack: ReactJS, javascript, html, css, Google Cloud Firestore, Cloud Storage, Pub/Sub, Cloud Run, Cloud Functions)</p>
                                     </div>
                                 </div>
                             </a>
