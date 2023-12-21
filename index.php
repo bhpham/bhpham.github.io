@@ -111,7 +111,7 @@
                         <div class="col-sm-4 wow bounceInLeft">
                             <div class="profile-item">
                                 <i class="fa fa-envelope-o"></i>
-                                <h5><a href="mailto:">bhpham1111@gmail.com</a></h5>
+                                <h5><a href="mailto:">bh.pham3@gmail.com</a></h5>
                             </div>
                         </div>
 
@@ -279,7 +279,7 @@
                                 <p>I got my bachelor degree of science in Computer Science at Washington State University. I'm very flexible with various modern programming languages like C/C++, C#, Java. Currently, I mostly used Java and C# for my projects. Indeed, my favorite frameworks to tackle current projects are: J2EE Spring, MVC, ORM Hibernate, RESTful with modern front-end technologies.</p>
                             </div> -->
                             <div class="about"> 
-                                <p>I'd love to connect with anyone! Feel free to shoot me an email bhpham1111@gmail.com.</p>
+                                <p>I'd love to connect with anyone! Feel free to shoot me an email bh.pham3@gmail.com.</p>
                             </div>
                         </div>   
                     </div>
@@ -495,9 +495,9 @@
                         <div class="col-md-6 wow bounceInUp">
                             <p>If you have a project in mind, I would love to connect with you!</p>
                             <ul class="icon-list">
-                                <li><i class="fa fa-map-marker"></i>Seattle, WA <-> Ho Chi Minh, VN</li>
+                                <li><i class="fa fa-map-marker"></i>Saigon, VN</li>
                                 <li><i class="fa fa-calendar"></i><a href="calendar.app.google/dR2K8XFKsoSwPd9J7">Let's chat</a></li>
-                                <li><i class="fa fa-envelope-o"></i><a href="mailto:">bhpham1111@gmail.com</a></li>
+                                <li><i class="fa fa-envelope-o"></i><a href="mailto:">bh.pham3@gmail.com</a></li>
                                 <li><i class="fa fa-globe"></i><a href="">http://www.bhpham.com</a></li>
                             </ul>
                         </div>
