@@ -92,7 +92,7 @@
                                     <h1>Hey, I'm Bill Pham</h1>
                                     <h3><span class="rotate">Software Engineering | Cloud Architect | Passion for new product ideas</span></h3>
                                     <a class="btn btn-full" href="#profile">Who Am I</a>
-                                    <a class="btn btn-ghost" href="https://braki-frequentused-files.s3-ap-southeast-1.amazonaws.com/binhpham_resume.pdf">My Portfolio</a>
+                                    <a class="btn btn-ghost" href="https://github.com/bhpham/">My Portfolio</a>
                                 </div>
                                 
                             </div>
