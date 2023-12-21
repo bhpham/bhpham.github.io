@@ -71,6 +71,7 @@
                                 <!-- <li><a href="#skills">Services</a></li> -->
                                 <!-- <li><a href="https://braki-frequentused-files.s3-ap-southeast-1.amazonaws.com/binhpham_resume.pdf">Resume</a></li> -->
                                 <li><a href="http://bhpham.com/#">Blog</a></li>
+                                <li><a href="#leetcode">Leetcode</a></li>
                                 <li><a href="#contact">Contact</a></li>
                             </ul>
                         </div>
@@ -454,7 +455,37 @@
                 </div>
             </section>
 
+            <!-- Leetcode section -->
+            <section class="section-form" id="leetcode">
+                <div class="container">
+                    <h2>My Leetcode</h2>
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6">
+                            Number of Islands - LeetCode
+                            <iframe src="https://drive.google.com/file/d/14C4Suyx92fBx_F1NV1m61lXcTXOu1RW8/preview" allow="autoplay"></iframe> </div>
+                        <div class="col-md-4 col-sm-6">
+                            Word Break - LeetCode
+                            <iframe src="https://drive.google.com/file/d/1lwTN83vwxJqYIprfTel8tuRIFcXJHdVV/preview" allow="autoplay"></iframe>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            Word Break - LeetCode
+                            <iframe src="https://drive.google.com/file/d/1Qbq276Oep4sKxDR9sWWy86iT-B83qj-t/preview" allow="autoplay"></iframe>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            Validate Binary Search Tree - Leetcode
+                            <iframe src="https://drive.google.com/file/d/1Qbq276Oep4sKxDR9sWWy86iT-B83qj-t/preview" allow="autoplay"></iframe>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            Longest Common Subsequence - Leetcode
+                            <iframe src="https://drive.google.com/file/d/13TjgEmZG9XwgOjS5CbYSghs8KHyOflLO/preview" allow="autoplay"></iframe>
+                        </div>
+                    </div>
+                            
+                </div>
+                </div>
+            </section>
 
+            <!-- Contact section -->
             <section class="section-form" id="contact">
                 <div class="container">
                     <div class="row white-space" >
