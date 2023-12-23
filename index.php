@@ -125,7 +125,7 @@
                         <div class="col-sm-4 wow bounceInRight">
                             <div class="profile-item">
                                 <i class="fa fa-map-marker"></i>
-                                <h5>Ho Chi Minh, VN</h5>
+                                <h5>Saigon, VN</h5>
                             </div>
                         </div>
                      </div>
