@@ -241,6 +241,7 @@
                                     <a href="https://www.credly.com/badges/4112d172-70f7-4fb4-8442-ad8d6b1d2817/"><li><img src="resources/img/GCC_badge_DA.png"></li></a>
                                     <a href="https://www.credly.com/badges/77cc831f-7d5f-4af2-9438-791f2c144022"><li><img src="resources/img/aws_badge.png"></li></a>
                                     <a href="https://www.credly.com/badges/53a145d2-a2bf-4860-a163-15e591cdc4d0"><li><img src="resources/img/PSM_badge.png"></li></a>
+                                    <a href="#"><li><img src="resources/img/leetcode_badge.png"></li></a>
                                 </ul>
                             </div>
 
