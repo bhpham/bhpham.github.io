@@ -261,7 +261,7 @@
                             <div class="about">    
                                 <p>I'm previously working as Technical Account Manager at Google where I served as an advertising and technology expert who acts as a liaison between our biggest Partners and Google’s Engineering and Sale teams. I'm currently taking a professional career break to take care of my family and learning professional development.
 
-                                <p>Most recently, I'm working as a Chief Technical Advisor of EgiTech company where I looked after the business, partner relationship, technical solution design of the company. I was also the architecture and business lead for a world-class porfolio of brands, including retail, fashion, beauty, heavy industry, global corporation, restaurant, and advertisement agency.</p>
+                                <p>Most recently, I'm operating as Advisor to support Startups in Vietnam to scale their business. I was a business lead for a world-class porfolio of brands, including retail, and advertisement agency.</p>
                                 <p>I'm particularly proud of my business track-record; my passion for selling innovative ideas and digital solutions; the trust that my clients put in me; and the joy I take in finding and developing talent and small business.</p>
                                 <p>I spent more than 6 years working for top-notch companies oversea including Google, Ant Group specializing in coding, building, quality ensuring and delivering Mobile Apps/E-Commerce platforms, Games, and Financial Payment systems.</p>
                                 <p>Specialties:
@@ -469,16 +469,16 @@
                             <iframe src="https://drive.google.com/file/d/1lwTN83vwxJqYIprfTel8tuRIFcXJHdVV/preview" allow="autoplay"></iframe>
                         </div>
                         <div class="col-md-4 col-sm-6">
-                            Word Break - LeetCode
-                            <iframe src="https://drive.google.com/file/d/1Qbq276Oep4sKxDR9sWWy86iT-B83qj-t/preview" allow="autoplay"></iframe>
-                        </div>
-                        <div class="col-md-4 col-sm-6">
                             Validate Binary Search Tree - Leetcode
                             <iframe src="https://drive.google.com/file/d/1Qbq276Oep4sKxDR9sWWy86iT-B83qj-t/preview" allow="autoplay"></iframe>
                         </div>
                         <div class="col-md-4 col-sm-6">
                             Longest Common Subsequence - Leetcode
                             <iframe src="https://drive.google.com/file/d/13TjgEmZG9XwgOjS5CbYSghs8KHyOflLO/preview" allow="autoplay"></iframe>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            Serialize and Deserialize Binary Tree - Leetcode
+                            <iframe src="https://drive.google.com/file/d/11o_VoScMb-usIa8sqbv_eoqSHE-ST9xN/preview" allow="autoplay"></iframe>
                         </div>
                     </div>
                             
