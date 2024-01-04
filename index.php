@@ -457,7 +457,7 @@
             </section>
 
             <!-- Leetcode section -->
-            <section class="section-form" id="leetcode">
+            <section class="section-leetcode" id="leetcode">
                 <div class="container">
                     <h2>My Leetcode</h2>
                     <div class="row">
