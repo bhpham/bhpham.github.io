@@ -558,12 +558,29 @@ iframe {
   max-width: 100%;
 }
 
+.section-leetcode {
+  background-color: #f4f4f4;
+}
+
+.contact-leetcode {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.section-leetcode a {
+  border-bottom: none;
+}
+
+.white-space {
+  padding-bottom: 50px;
+}
+
 /* --------------------------------------------- */
 /* FORM */
 /* --------------------------------------------- */
-.section-form {
+/* .section-form {
   background-color: #f4f4f4;
-}
+} */
 
 .contact-form {
   width: 80%;

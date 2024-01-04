@@ -484,8 +484,12 @@
                             Find All Anagrams in a String - Leetcode
                             <iframe src="https://drive.google.com/file/d/1ir9NFHVJubmuyfFsoofMasrVSR4qTiPb/preview" allow="autoplay"></iframe>
                         </div>
+                        <div class="col-md-4 col-sm-6">
+                            Maximum Subsequence Score - Leetcode - Leetcode
+                            <iframe src="https://drive.google.com/file/d/1xglbZZE1HCA63PLuHXz6FBd0lpQbW3Je/preview" allow="autoplay"></iframe>
+                        </div>
                     </div>
-                            
+                   
                 </div>
                 </div>
             </section>
